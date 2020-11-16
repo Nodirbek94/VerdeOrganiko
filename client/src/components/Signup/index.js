@@ -14,7 +14,7 @@ import SignupButton from '../../components/SignupButton';
 import LoadingIndicator from '../../components/LoadingIndicator';
 import SignupProvider from '../../components/SignupProvider';
 import Checkbox from '../../components/Checkbox';
-import './Sign.css';
+import './sign.css';
 
 export class Signup extends React.PureComponent {
     state = {
