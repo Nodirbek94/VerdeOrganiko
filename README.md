@@ -10,7 +10,7 @@ The motivation for this project was a childhood friend and his fiance. They star
 
 The goal for this project was to create a full stack MERN web application that will allow the owner to sell their succulent plants not only out of their city in Puerto Rico but also outside of P.R. The user will be able to purchased their desire plants online via Pay Pall Payment method. the user can also contact verde Organiko for detailed instructions of their purchased or any relative questions, the site is set up to be a billingual page ,for English and Spanish. The web page is mobile responsive.
 
-### Demo for the deployed app
+### Demo for the deployed app https://verde-organik.herokuapp.com/
 
 ![Verde Organiko demo](https://github.com/ydeek91/VerdeOrganiko/blob/main/client/public/assets/images/Verde_OrganiKo.gif)
 ![Verde Organiko screenshot](https://i.ibb.co/3My64WM/Screenshot-108.png)
